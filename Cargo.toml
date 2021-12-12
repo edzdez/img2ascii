@@ -1,10 +1,16 @@
 [package]
-name = "png2ascii"
+name = "img2ascii"
 authors = ["Ethan Zhang <ezsland05@gmail.com>"]
 categories = ["command-line-utilities", "graphics"]
 version = "0.1.0"
 edition = "2021"
+readme = "README.md"
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+[[bin]]
+name = "img2ascii"
 
 [dependencies]
+structopt = "0.3.25"
+image = "0.23.14"
