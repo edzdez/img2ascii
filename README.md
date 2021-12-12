@@ -4,18 +4,21 @@ A simple CLI tool to convert images to ascii text
 
 TODO: Demo
 
----
-
 ## Command-line Options
 
-- TODO
+### Flags:
 
----
+- **-c**, **--color**: use terminal colors in output
+
+### Options:
+
+- **-r \<ramp>**, **--ramp \<ramp>**: specify the character ramp to be used for conversion
+- **-s \<scale>**, **--scale \<scale>**: specify the scale to be used
 
 ## To Build
 
 **img2ascii** is written in [Rust](https://www.rust-lang.org/). The Rust compiler can be installed by following the
-instructions on the [official download page](https://www.rust-lang.org/tools/install).  
+instructions on the [official download page](https://www.rust-lang.org/tools/install).
 
 ```shell
 $ git clone "https://github.com/edzdez/img2ascii.git"
