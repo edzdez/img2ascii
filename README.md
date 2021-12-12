@@ -8,7 +8,8 @@ TODO: Demo
 
 ### Flags:
 
-- **-c**, **--color**: use terminal colors in output
+- **-f**, **--fcolor**: color foreground
+- **-b**, **--bcolor**: color background
 
 ### Options:
 
