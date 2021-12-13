@@ -1,13 +1,16 @@
 [package]
 name = "img2ascii"
 authors = ["Ethan Zhang <ezsland05@gmail.com>"]
+description = "A simple CLI tool to convert images to ascii text"
+homepage = "https://github.com/edzdez/img2ascii"
+repository = "https://github.com/edzdez/img2ascii"
+keywords = ["cli", "graphics"]
 categories = ["command-line-utilities", "graphics"]
-version = "1.0.0"
+version = "0.1.0"
 edition = "2021"
 readme = "README.md"
 license = "MIT"
 
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 [[bin]]
 name = "img2ascii"
 
