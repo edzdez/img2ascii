@@ -17,7 +17,7 @@ A simple CLI tool to convert images to ascii text
 - **-s \<scale>**, **--scale \<scale>**: specify the scale to be used
 
 ## To Install
-Cargo:
+### Cargo:
 ```shell
 $ cargo install img2ascii
 ```
