@@ -2,7 +2,7 @@
 name = "img2ascii"
 authors = ["Ethan Zhang <ezsland05@gmail.com>"]
 categories = ["command-line-utilities", "graphics"]
-version = "0.1.0"
+version = "1.0.0"
 edition = "2021"
 readme = "README.md"
 license = "MIT"
