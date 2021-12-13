@@ -2,7 +2,7 @@
 
 A simple CLI tool to convert images to ascii text
 
-<img width="300px" src="./screenshots/img2ascii-demo.gif"/>
+<img width="720" src="./screenshots/img2ascii-demo.gif"/>
 
 ## Command-line Options
 
